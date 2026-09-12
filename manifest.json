@@ -1,15 +1,1 @@
-{
-  "name": "专注光环 · Focus Aura",
-  "version": "1.0.1",
-  "manifest_version": 1,
-  "description": "蓝色弱专注、金色强专注",
-  "icon": "https://kexinzhanga.github.io/focus-mod/icon.svg",
-  "action": {
-    "title": "专注光环",
-    "icon": "https://kexinzhanga.github.io/focus-mod/icon.svg",
-    "popover": "https://kexinzhanga.github.io/focus-mod/index.html",
-    "width": 340,
-    "height": 420
-  },
-  "background_url": "https://kexinzhanga.github.io/focus-mod/background.html"
-}
+{"name":"专注光环 · Focus Aura","version":"1.1.0","manifest_version":1,"description":"强化版：冰蓝拖尾与冲击波、三层金色法阵与火焰电弧。","icon":"https://kexinzhanga.github.io/focus-mod/icon.svg","action":{"title":"专注光环 · 1.1 强化版","icon":"https://kexinzhanga.github.io/focus-mod/icon.svg","popover":"https://kexinzhanga.github.io/focus-mod/index.html?v=1.1.0","width":340,"height":420},"background_url":"https://kexinzhanga.github.io/focus-mod/background.html?v=1.1.0"}
