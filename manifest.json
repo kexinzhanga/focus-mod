@@ -1,1 +1,15 @@
-{"name":"专注光环 · Focus Aura","version":"1.0.0","manifest_version":1,"description":"Token 专属动态光环：蓝色弱专注、金色强专注，一键切换。","icon":"/icon.svg","action":{"title":"专注光环","icon":"/icon.svg","popover":"/index.html","width":340,"height":420},"background_url":"/background.html"}
+{
+  "name": "专注光环 · Focus Aura",
+  "version": "1.0.1",
+  "manifest_version": 1,
+  "description": "蓝色弱专注、金色强专注",
+  "icon": "https://kexinzhanga.github.io/focus-mod/icon.svg",
+  "action": {
+    "title": "专注光环",
+    "icon": "https://kexinzhanga.github.io/focus-mod/icon.svg",
+    "popover": "https://kexinzhanga.github.io/focus-mod/index.html",
+    "width": 340,
+    "height": 420
+  },
+  "background_url": "https://kexinzhanga.github.io/focus-mod/background.html"
+}
